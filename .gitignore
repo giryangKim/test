@@ -11,7 +11,8 @@ tmp/
 *.swp
 *~.nib
 local.properties
-.settings/
+#.settings/
+#.classpath
 .loadpath
 .recommenders
 
